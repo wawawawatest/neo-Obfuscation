@@ -1,0 +1,2 @@
+﻿using System.Diagnostics.CodeAnalysis;
+[assembly: SuppressMessage("CodeQuality", "IDE0051:Supprimer les membres privés non utilisés", Justification = "<En attente>", Scope = "member", Target = "~M:NoisetteGUI.Protection.AntiTamper.Runtime.EOFAntiTamper.Initializer")]
